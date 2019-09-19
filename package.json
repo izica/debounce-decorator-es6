@@ -1,6 +1,6 @@
 {
   "name": "debounce-decorator-es6",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Debounce decorator for es6+, with promise support",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/izica/debounce-decorator-es6/issues"
   },
-  "homepage": "https://github.com/izica/debounce-decorator-es6#readme"
+  "homepage": "https://github.com/izica/debounce-decorator-es6#readme",
+  "keywords": [
+    "javascript",
+    "decorator",
+    "debounce",
+    "debounced",
+    "promise",
+    "promise-support",
+    "decorator-es6",
+    "debounce-es6",
+    "javascript-es6",
+    "es6"
+  ]
 }

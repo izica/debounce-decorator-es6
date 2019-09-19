@@ -8,6 +8,8 @@ Debounce decorator for es6+, with promise support
 ### Usage
 Default debounce time = 500ms
 ```javascript
+import debounce from 'debounce-decorator-es6';
+
 class Store {
     message = 'msg';
 
