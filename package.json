@@ -1,0 +1,19 @@
+{
+  "name": "debounce-decorator-es6",
+  "version": "1.0.0",
+  "description": "Debounce decorator for es6+, with promise support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izica/debounce-decorator-es6.git"
+  },
+  "author": "Artyom Golovarchuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/izica/debounce-decorator-es6/issues"
+  },
+  "homepage": "https://github.com/izica/debounce-decorator-es6#readme"
+}
