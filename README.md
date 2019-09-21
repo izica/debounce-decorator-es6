@@ -1,5 +1,8 @@
 # debounce-decorator-es6
 Debounce decorator for es6+, with promise support
+
+see https://www.npmjs.com/package/decorators-es6
+
 ### Install
 ```
 npm install debounce-decorator-es6

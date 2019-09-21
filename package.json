@@ -1,6 +1,6 @@
 {
   "name": "debounce-decorator-es6",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Debounce decorator for es6+, with promise support",
   "main": "index.js",
   "scripts": {
